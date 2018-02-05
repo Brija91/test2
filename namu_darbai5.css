@@ -1,0 +1,66 @@
+body {
+    font-size: 10px;
+    padding: 15px;
+    background-color: silver;
+	font-family: 'News Cycle', sans-serif;
+}
+
+hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+
+.pradzia h1{
+	text-align: center;
+	font-size: 30px;
+}
+
+.btn {
+	padding: 5px 10px;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.btn-submit {
+	color: white;
+	background-color: lightblue;
+}
+
+.tekstas{
+	float: left;
+	width: 50%;
+	font-size: 14pt;
+}
+
+.lentele{
+	float: right;
+	width: 50%;
+	font-size: 12px;
+	margin-top: 10px;
+}
+
+.lentele label {
+	width: 100px;
+	text-align: left;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.formos-eilute {
+	margin: 15px;
+}
+
+.forma{
+	clear: both;
+}
+
+.container{
+	width: 1000px;
+	height: 300px;
+	background-color: white;
+	padding: 10px;
+	display: inline-block;
+	position: relative;
+	margin: 0 auto;
+}
+
